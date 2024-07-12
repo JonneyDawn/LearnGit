@@ -4,3 +4,4 @@ logs/
 logs/*.log
 **/logs/
 log/*
+!log/keep.log
