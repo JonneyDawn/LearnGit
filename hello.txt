@@ -2,4 +2,4 @@ hello git!
 add new line,update test!
 Add a line comment!add line to staged!
 add line not staged!
-wfasfdasdfasf
+wfasfdasdfasfannotated tag test!
