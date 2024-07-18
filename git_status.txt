@@ -1,0 +1,2 @@
+git status -s command test!
+dsg34gsdg
